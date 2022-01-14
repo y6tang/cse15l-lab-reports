@@ -26,7 +26,7 @@ We want to skip the step of typing password everytime we log in or use scp. This
 * exit the server and scp your public key to the .ssh directory in your server account
 Now you can log onto your account without typing your password
 ![keygen](images/keygen.png)
-## Optimizing Remote Running 
+## Step 7 Optimizing Remote Running 
 * you can run ssh command while running accounts with ""
 ![sshremote](images/sshremote.png)
 * we can also run mutiple commands with ; separted with each command
