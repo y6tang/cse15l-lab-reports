@@ -27,7 +27,7 @@ We want to skip the step of typing password everytime we log in or use scp. This
 Now you can log onto your account without typing your password
 ![keygen](images/keygen.png)
 ## Step 7 Optimizing Remote Running 
-* you can run ssh command while running accounts with <kbd>""</kbd>
+* you can run ssh command while running accounts with <kbd>""</kbd> This operation saves me 10 keystrokes.
 ![sshremote](images/sshremote.png)
-* we can also run mutiple commands with <kbd>;</kbd> separted with each command. For example, we can try <kbd>cd; ls ; ls -a</kbd>
+* we can also run mutiple commands with <kbd>;</kbd> separted with each command. For example, we can try <kbd>cd; ls ; ls -a</kbd> This operation saves me 5 keystrokes.
 ![mutiple](images/mutiple.png)
